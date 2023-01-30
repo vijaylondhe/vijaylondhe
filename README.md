@@ -31,4 +31,4 @@
 
 | Repository Name | Description  |
   | ------ | ------ |
-  | [AWS_DevOps_Projects](https://github.com/rumeysakdogan/AWS_DevOps_Projects) | DevOps projects using AWS |
+  | [DevOps Projects](https://github.com/vijaylondhe/DevOps-Projects) | DevOps projects using AWS |
