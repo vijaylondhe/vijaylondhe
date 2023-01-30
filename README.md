@@ -26,6 +26,8 @@
     * Red Hat Certified Specialist in Ansible Automation
     * Red Hat Certified Specialist in Openshift Administration
     * Red Hat Certified Specialist in Containerized Application Development
+    * Red Hat Certified System Administrator
+    * Red Hat Certified Engineer
 
 - Below are the repositories that I have used during my DevOps/Cloud prepration journey.
 
