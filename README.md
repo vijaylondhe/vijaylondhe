@@ -5,7 +5,7 @@
 - Brief introduction about me:
     * Total 10+ years of experience in IT.
     * Skilled DevOps & Cloud Engineer.
-    * Experience in managing government projects on cloud and on-premise datacenter.
+    * Experience in managing government enterprise projects on cloud and on-premise datacenter.
     * Hands-on experience in different devops technologies. 
 
 - Technical Skills:
@@ -26,3 +26,9 @@
     * Red Hat Certified Specialist in Ansible Automation
     * Red Hat Certified Specialist in Openshift Administration
     * Red Hat Certified Specialist in Containerized Application Development
+
+- Below are the repositories that I have used during my DevOps/Cloud prepration journey.
+
+| Repository Name | Description  |
+  | ------ | ------ |
+  | [AWS_DevOps_Projects](https://github.com/rumeysakdogan/AWS_DevOps_Projects) | DevOps projects using AWS |
