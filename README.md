@@ -31,4 +31,4 @@
 
 | Repository Name | Description  |
   | ------ | ------ |
-  | [DevOps Projects](https://github.com/vijaylondhe/DevOps-Projects) | DevOps projects using AWS |
+  | [DevOps Projects](https://github.com/vijaylondhe/DevOps-Projects) | DevOps projects using AWS, Jenkins, Docker, Kubernetes, Terraform, Ansible etc. |
