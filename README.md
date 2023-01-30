@@ -31,5 +31,6 @@
 
 | Repository Name | Description  |
   | ------ | ------ |
-  | [DevOps Projects](https://github.com/vijaylondhe/DevOps-Projects) | DevOps projects using AWS, Jenkins, Docker, Kubernetes, Terraform, Ansible etc. |
+  | [DevOps Projects](https://github.com/vijaylondhe/DevOps-Projects) | DevOps projects using -> AWS, Jenkins, Docker, Kubernetes, Terraform, Ansible etc. |
   | [AWS Services](https://github.com/vijaylondhe/AWS-Services) | AWS Services implentation -> IAM, EC2, RDS, EBS, ELB, ASG, VPC, CloudFront, SNS, SQS, Cloudwatch, EKS, ECS, Lamdba, DynamoDB, Boto3 etc. |
+  | [Linux Administration](https://github.com/vijaylondhe/Linux-Administration) | Linux Administration tasks.|
