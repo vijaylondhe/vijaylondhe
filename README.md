@@ -5,7 +5,7 @@
 - Brief introduction about me:
     * Total 10+ years of experience in IT.
     * Skilled DevOps & Cloud Engineer.
-    * Experience in managing government enterprise projects on cloud and on-premise datacenter.
+    * Experience in managing cloud infrastructure and on-premise datacenter.
     * Hands-on experience in different devops technologies. 
 
 - Technical Skills:
