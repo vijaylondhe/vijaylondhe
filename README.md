@@ -29,7 +29,7 @@
     * Red Hat Certified System Administrator
     * Red Hat Certified Engineer
 
-- Below are the repositories that I have used during my DevOps/Cloud prepration journey.
+- Repositories I have created during my DevOps/Cloud prepration journey.
 
 | Repository Name | Description  |
   | ------ | ------ |
