@@ -6,7 +6,7 @@
     * Total 10+ years of experience in IT.
     * Skilled DevOps & Cloud Engineer.
     * Experience in managing cloud infrastructure and on-premise datacenter.
-    * Hands-on experience in different devops technologies. 
+    * Hands-on experience in different devops tools and process.
 
 - Technical Skills:
     * Operating Systems: Red Hat Linux, HP-UX, IBM AIX.
